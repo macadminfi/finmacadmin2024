@@ -6,5 +6,5 @@ The materials are divided per presentation and the copyright/license is per pres
 
 ## Presentation links
 
-* [Petri Riihikallio - WiFi Security](https://github.com/macadminfi/finmacadmin2024/blob/main/WiFi6E-PetriRiihikallio/WiFi6E%202023.pdf)
-* [Miikkali Leppihalme - You're probably wondering why I'm here.](https://github.com/macadminfi/finmacadmin2024/blob/main/YoureprobablywonderingwhyImhere-MiikkaliLeppihalme/FinMacAdmin%202023%20presentation%20-%20You're%20probably%20wondering%20why%20I'm%20here.pptx)
+* [Petri Riihikallio - WiFi Security](https://github.com/macadminfi/finmacadmin2024/blob/main/WiFi%20Security.pdf)
+* [Miikkali Leppihalme - Macs in Big Old Corporations](https://github.com/macadminfi/finmacadmin2024/blob/main/FinMacAdmin%202024%20-%20Macs%20in%20Big%20Old%20Corporations.pdf)
