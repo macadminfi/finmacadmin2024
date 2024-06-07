@@ -8,3 +8,4 @@ The materials are divided per presentation and the copyright/license is per pres
 
 * [Petri Riihikallio - WiFi Security](https://github.com/macadminfi/finmacadmin2024/blob/main/WiFi%20Security.pdf)
 * [Miikkali Leppihalme - Macs in Big Old Corporations](https://github.com/macadminfi/finmacadmin2024/blob/main/FinMacAdmin%202024%20-%20Macs%20in%20Big%20Old%20Corporations.pdf)
+* [Kalle Ronkainen - Virtual Surreality](https://github.com/macadminfi/finmacadmin2024/blob/main/FinMacAdmin%202024%20-%20Virtual%20Surreality.pdf)
